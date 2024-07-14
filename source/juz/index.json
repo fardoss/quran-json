@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "startSurah": "Al-Fatiha",
+        "endSurah": "Al-Baqara",
+        "totalVerses": 148
+    },
+    {
+        "id": 2,
+        "startSurah": "Al-Baqara",
+        "endSurah": "Al-Baqara",
+        "totalVerses": 111
+    },
+    {
+        "id": 3,
+        "startSurah": "Al-Baqara",
+        "endSurah": "Aal-Imran",
+        "totalVerses": 126
+    },
+    {
+        "id": 4,
+        "startSurah": "Aal-Imran",
+        "endSurah": "An-Nisaa'",
+        "totalVerses": 131
+    },
+    {
+        "id": 5,
+        "startSurah": "An-Nisaa'",
+        "endSurah": "An-Nisaa'",
+        "totalVerses": 124
+    },
+    {
+        "id": 6,
+        "startSurah": "An-Nisaa'",
+        "endSurah": "Al-Ma'ida",
+        "totalVerses": 110
+    },
+    {
+        "id": 7,
+        "startSurah": "Al-Ma'ida",
+        "endSurah": "Al-An'am",
+        "totalVerses": 149
+    },
+    {
+        "id": 8,
+        "startSurah": "Al-An'am",
+        "endSurah": "Al-A'raf",
+        "totalVerses": 142
+    },
+    {
+        "id": 9,
+        "startSurah": "Al-A'raf",
+        "endSurah": "Al-Anfal",
+        "totalVerses": 159
+    },
+    {
+        "id": 10,
+        "startSurah": "Al-Anfal",
+        "endSurah": "Al-Tawba",
+        "totalVerses": 127
+    },
+    {
+        "id": 11,
+        "startSurah": "Al-Tawba",
+        "endSurah": "Hud",
+        "totalVerses": 152
+    },
+    {
+        "id": 12,
+        "startSurah": "Hud",
+        "endSurah": "Yusuf",
+        "totalVerses": 170
+    },
+    {
+        "id": 13,
+        "startSurah": "Yusuf",
+        "endSurah": "Ibrahim",
+        "totalVerses": 155
+    },
+    {
+        "id": 14,
+        "startSurah": "Al-Hijr",
+        "endSurah": "An-Nahl",
+        "totalVerses": 227
+    },
+    {
+        "id": 15,
+        "startSurah": "Al-Israa",
+        "endSurah": "Al-Kahf",
+        "totalVerses": 185
+    },
+    {
+        "id": 16,
+        "startSurah": "Al-Kahf",
+        "endSurah": "Ta-Ha",
+        "totalVerses": 270
+    },
+    {
+        "id": 17,
+        "startSurah": "Al-Anbiya",
+        "endSurah": "Al-Hajj",
+        "totalVerses": 190
+    },
+    {
+        "id": 18,
+        "startSurah": "Al-Muminun",
+        "endSurah": "Al-Furqan",
+        "totalVerses": 203
+    },
+    {
+        "id": 19,
+        "startSurah": "Al-Furqan",
+        "endSurah": "An-Naml",
+        "totalVerses": 340
+    },
+    {
+        "id": 20,
+        "startSurah": "An-Naml",
+        "endSurah": "Al-Ankabut",
+        "totalVerses": 172
+    },
+    {
+        "id": 21,
+        "startSurah": "Al-Ankabut",
+        "endSurah": "Al-Ahzab",
+        "totalVerses": 181
+    },
+    {
+        "id": 22,
+        "startSurah": "Al-Ahzab",
+        "endSurah": "Yasin",
+        "totalVerses": 171
+    },
+    {
+        "id": 23,
+        "startSurah": "Yasin",
+        "endSurah": "Az-Zumar",
+        "totalVerses": 359
+    },
+    {
+        "id": 24,
+        "startSurah": "Az-Zumar",
+        "endSurah": "Fussilat",
+        "totalVerses": 176
+    },
+    {
+        "id": 25,
+        "startSurah": "Fussilat",
+        "endSurah": "Al-Jathiya",
+        "totalVerses": 249
+    },
+    {
+        "id": 26,
+        "startSurah": "Al-Ahqaf",
+        "endSurah": "Az-Zariyat",
+        "totalVerses": 199
+    },
+    {
+        "id": 27,
+        "startSurah": "Az-Zariyat",
+        "endSurah": "Al-Hadid",
+        "totalVerses": 404
+    },
+    {
+        "id": 28,
+        "startSurah": "Al-Mujadilah",
+        "endSurah": "At-Tahrim",
+        "totalVerses": 144
+    },
+    {
+        "id": 29,
+        "startSurah": "Al-Mulk",
+        "endSurah": "Al-Mursalat",
+        "totalVerses": 440
+    },
+    {
+        "id": 30,
+        "startSurah": "An-Naba",
+        "endSurah": "An-Nas",
+        "totalVerses": 599
+    }
+]
